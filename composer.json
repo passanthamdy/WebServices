@@ -1,0 +1,7 @@
+
+{
+    "name": "weatherapp/weather",
+    "autoload": {
+        "classmap": ["models"]    },
+    "require": {}
+}
